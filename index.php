@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>Lynx Cryptograph</title>
+	<title>Wazen Cryptograph</title>
 	<link href="https://fonts.googleapis.com/css?family=Ubuntu" rel="stylesheet"> 
 	<style type="text/css">
 		* {margin: 0; padding: 0; font-family:'Ubuntu', sans-serif;}
